@@ -1,7 +1,7 @@
-### Hi there, I'm Rohit Kumar 👋
+### Hi there, I'm ROHIT KUMAR 👋
 
-
-  <a title="rohitsharma.sharma194@gmail.com" href="mailto:rohitsharma.sharma194@gmail.com">
+<p> 
+ <a title="rohitsharma.sharma194@gmail.com" href="mailto:rohitsharma.sharma194@gmail.com">
     <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
       alt="rohitsharma.sharma194@gmail.com" />
   </a>
@@ -10,6 +10,11 @@
       src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
       alt="https://www.linkedin.com/in/rohit-kumar-5a7b00225/"/>
   </a>
+  <a href="https://Rohitsharma7877.github.io" target="blank">
+   <img align="center" src="https://img.shields.io/badge/My%20Portfolio%20%E2%86%92-gray.svg?colorA=655BE1&colorB=4F44D6&style=for-the-badge"/>
+</a>
+</p>
+ 
 
 [![MasterHead](https://camo.githubusercontent.com/48ec00ed4c84e771db4a1db90b56352923a8d644452a32b434d68e97006c9337/68747470733a2f2f63686b736b696c6c732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30342f504e432d416e696d617465642d42616e6e6572732e676966)]()
 
@@ -26,7 +31,8 @@
  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"><em><b>i love networking with
       people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :blush:</em>
 
-   ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Rohitsharma7877&theme=dracula&hide_border=true)
+   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Rohitsharma7877&theme=react-dark&custom_title=Rohitsharma7877%20's%20contribution%20Graph&hide_border=true" />
+
 
 
  
