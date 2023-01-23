@@ -10,7 +10,7 @@
       src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
       alt="https://www.linkedin.com/in/rohit-kumar-5a7b00225/"/>
   </a>
-  <a href="https://Rohitsharma7877.github.io" target="blank">
+  <a href="https://Rohitsharma7877.github.io" target="_blank">
    <img align="center" src="https://img.shields.io/badge/My%20Portfolio%20%E2%86%92-gray.svg?colorA=655BE1&colorB=4F44D6&style=for-the-badge"/>
 </a>
 </p>
